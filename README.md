@@ -1,7 +1,7 @@
-# MobileEngineeringLevels 📱
+# MobileEngineeringChapters 📱
 A Progression framework for the Mobile Engineering team. Starting from Level 1 to Level TBC
 
-## LEVEL 1
+## Chapter 1
 
 ### Craft Mastery 🛠
 
