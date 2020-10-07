@@ -57,6 +57,7 @@ A Progression framework for the Mobile Engineering team. Starting from Level 1 t
 
 - Proactively communicates to their team what they are working on, why, how it's going and what help they need
 - Gives feedback to peers when asked
+- Seeks to kick off work with other members of the team, through a three amigos or something similar
 - Provides helpful and actionable feedback in code reviews in an empathetic manner
 - Can deliver their work to their team and others
 - Proactively gives feedback to those they work with
