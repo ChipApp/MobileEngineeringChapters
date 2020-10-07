@@ -1,4 +1,4 @@
-# MobileEngineeringChapters 📱
+# Mobile Engineering Chapters 📱
 A Progression framework for the Mobile Engineering team. Starting from Level 1 to Level TBC
 
 ## Chapter 1
@@ -27,3 +27,36 @@ A Progression framework for the Mobile Engineering team. Starting from Level 1 t
 - Reguarly communicates confidently what they are working on
 - Seeks out feedback from engineers, QA & design
 
+## Chapter 2
+
+### Craft Mastery 🛠
+
+- Uses appropriate algorithms and data structures to solve problems
+- Uses suitable design patterns
+- Responsible for building small to medium sized new features inside the app
+- Adds basic UI tests and snapshots
+- Adds basic unit tests
+- Manages the release process
+- Appropriately handles errors or failure conditions in their code
+- Works with designers to handle empty, error, and loading states in multi screen flows
+- Can add a service with a new backend endpoint and handle return data
+- Can reason whether to use asynchronous or synchronous operations
+- Contributes to Android or iOS team chat
+
+### Contribution 🤖
+
+- Delivers assigned tasks that meet expected criteria
+- Works for the team, focuses on tasks that contribute to team goals
+- Tries to unblock themselves first before seeking help
+- Manages their own time effectively, prioritises their workload well, on time for meetings, aware when blocking others and unblocks
+- Supports the team, does what needs doing
+- Breaks down small/medium problems into iterative steps
+- Proactively raises issues they spot in retrospectives
+
+### Communication 💬
+
+- Proactively communicates to their team what they are working on, why, how it's going and what help they need
+- Gives feedback to peers when asked
+- Provides helpful and actionable feedback in code reviews in an empathetic manner
+- Can deliver their work to their team and others
+- Proactively gives feedback to those they work with
