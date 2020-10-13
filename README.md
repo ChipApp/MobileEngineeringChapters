@@ -61,3 +61,40 @@ A Progression framework for the Mobile Engineering team. Starting from Level 1 t
 - Provides helpful and actionable feedback in code reviews in an empathetic manner
 - Can deliver their work to their team and others
 - Proactively gives feedback to those they work with
+
+## Chapter 3
+
+### Craft Mastery 🛠
+
+- Uses tools to diagnose and improve performance issues
+- Builds non-trivial, coordinated app flows with multiple services and data sources
+- Builds complex UI layouts in code or via IDE
+- Contributes to group standards, impactful in improving our processes
+- Proactively improves empty, error and loading states in screens & flows they encounter, works closely with designers to identify problem areas and suggest improvements
+- Owning migration from major language versions
+- Handling complex changes to third party dependencies
+
+### Contribution 🤖
+
+- Delivers large well-defined tasks and solves small scope not-well-defined problems
+- Breaks down large problems into smaller iterative steps across multiple PRs
+- Identifies problems to solve
+- Owns the implementation of the solution
+
+### Communication 💬
+
+- Early transparency about mistakes they've made
+- Proactively gives timely actionable feedback to peers
+- Considers the opinions of others before defending their own
+- Clearly communicates throughout implementation of solutions
+
+### Leadership 
+
+- Provides valuable input to proposals from their team
+- Proactively improves modules, services, systems and codebases they encounter, 'this doesn't make sense, I'm going to do something about it'
+- Contributes to scaling engineering hiring (e.g. leads calls, does onsite interviews)
+- Builds simple tools or iterates existing tools for the benefit of all engineers
+- Onboards / mentors new engineers
+- Finds learning opportunities for others when reviewing their code and follows it up
+
+
